@@ -82,17 +82,13 @@ The rate limit of BSC endpoint on Testnet and Mainnet is 10K/5min.
 
 ### 3rd Party Provider
 
-* [Moralis](https://moralis.io/): <https://moralis.io/speedy-nodes/>
-
 * ANKR: <https://app.ankr.com/api>
-
+* [BNB48 Club](https://t.me/bnb48_rpc) : <https://rpc-bsc.bnb48.club>
 * [Chainstack](https://chainstack.com/): <https://chainstack.com/build-better-with-binance-smart-chain/>
-
 * [GetBlock.io](https://getblock.io/): <https://getblock.io/nodes/bsc>
-
-* QuickNode : <https://quicknode.com>
-
+* [Moralis](https://moralis.io/): <https://moralis.io/speedy-nodes/>
 * [NodeReal](https://nodereal.io/): <https://binance.nodereal.io>
+* QuickNode : <https://quicknode.com>
 
 
 ## Start
